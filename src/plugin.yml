@@ -1,0 +1,10 @@
+name: Claim
+author: DeathOfTime
+version: 1.0
+main: me.deathoftime.Claim.Claim
+description: A claim plugin made by DeathOfTime.
+
+commands:
+  claim:
+    usage: /<command> []
+    description: The main command for the plugin.
